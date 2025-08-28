@@ -30,4 +30,4 @@ Impact:
 Helped identify cancellation patterns and revenue trends, enabling stakeholders to improve driver allocation, reduce cancellations, and optimize customer experience.
 
 Screenshots / Demos
-Show what the dashboard looks like.
+Show what the dashboard looks like. https://github.com/mohitravan/ola-dashbord/blob/main/ola%20dashbord%20overall.png

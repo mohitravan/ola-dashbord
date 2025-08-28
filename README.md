@@ -28,3 +28,6 @@ Ride volume trends over time
 
 Impact:
 Helped identify cancellation patterns and revenue trends, enabling stakeholders to improve driver allocation, reduce cancellations, and optimize customer experience.
+
+Screenshots / Demos
+Show what the dashboard looks like.
